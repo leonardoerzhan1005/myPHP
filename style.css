@@ -1,0 +1,30 @@
+/* Стилизация таблицы */
+
+/* Импортирование стилей Bootstrap */
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+/* Дополнительные пользовательские стили */
+/* Примеры: */
+.my-custom-class {
+  color: red;
+}
+
+/* Другие стили по вашему выбору */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table th, table td {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Дополнительные стили по вашему выбору */
+  
+  
